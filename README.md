@@ -1,5 +1,9 @@
 # 基于TensorFlow2实现的宠物识别系统（爬虫、模型训练和调优、模型部署）
+
+完整资源下载地址：https://drive.google.com/file/d/1YEoaa7fludUzr_JzV7VsLJDp3Og09eJV/view?usp=drive_link
 ​
+
+
 这是一个从零开始构建的深度学习小项目，提供猫、狗、鼠、兔四种宠物的识别服务。
 
 共包含如下几部分：
